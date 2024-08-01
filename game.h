@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <ctime>
 #include <limits>
-#include "C:\Users\mundr\Downloads\Project Solution\virtual-cricket-game\team.h"		// "player.h", <string>, <vector>
+#include ".\team.h"		// "player.h", <string>, <vector>
 
 
 class Game {

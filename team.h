@@ -1,5 +1,5 @@
 #include <vector>
-#include "C:\Users\mundr\Downloads\Project Solution\virtual-cricket-game\player.h"		// <string>
+#include ".\player.h"		// <string>
 
 
 class Team {
